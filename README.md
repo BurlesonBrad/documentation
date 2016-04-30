@@ -13,7 +13,7 @@ This repository is the source code for [Gitbook](https://www.gitbook.com/) publi
 
 #### Why is git used for the documentation
 
-- *versions*. Anyone can go back an look how the text looked like.
+- *versions*. Anyone can go back and look how the text looked like.
 - *authorship*. Not only every file, but every line has its author.
 - *community contributions*. No need to worry about deleting someone else's work while working on the same document.
 
